@@ -6,4 +6,4 @@ The analysis answers three questions:
 
 2. Is higher social media usage associated with academic performance among teenagers?
 
-3. Is higher social media usage associated w
+3. Is higher social media usage associated with?
